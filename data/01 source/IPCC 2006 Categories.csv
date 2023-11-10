@@ -1,25 +1,38 @@
-﻿IPCC,IPCC_description,Level 1,Level 2,Level 3,Level 4
-1.A.1.a,Main Activity Electricity and Heat Production,Energy,Fuel Combustion Activities,Energy Industries,Main Activity Electricity and Heat Production
-1.A.2,Manufacturing Industries and Construction,Energy,Fuel Combustion Activities,Manufacturing Industries and Construction,NA
-1.A.4,Residential and other sectors,Energy,Fuel Combustion Activities,Other Sectors,NA
-1.A.5,Non-Specified,Energy,Fuel Combustion Activities,Non-Specified,NA
-1.B.1,Solid Fuels,Energy,Fugitive emissions from fuels,Solid Fuels,NA
-1.A.3.a,Civil Aviation,Energy,Fuel Combustion Activities,Transport,Civil Aviation
-1.A.3.b_noRES,Road Transportation no resuspension,Energy,Fuel Combustion Activities,Transport,NA
-1.A.3.d,Water-borne Navigation,Energy,Fuel Combustion Activities,Transport,Water-borne Navigation
-1.A.3.e,Other Transportation,Energy,Fuel Combustion Activities,Transport,Other Transportation
-1.B.2,Oil and Natural Gas,Energy,Fugitive emissions from fuels,Oil and Natural Gas,NA
-2.A.3,Glass Production,Industrial Processes and Product Use,Mineral Industry,Glass Production,NA
-2.A.4,Other Process Uses of Carbonates,Industrial Processes and Product Use,Mineral Industry,Other Process Uses of Carbonates,NA
-2.D,Non-Energy Products from Fuels and Solvent Use,Industrial Processes and Product Use,Non-Energy Products from Fuels and Solvent Use,NA,NA
-3.C.1,Emissions from biomass burning,"Agriculture, Forestry, and Other Land Use",Aggregate sources and non-CO2 emissions sources on land,Burning,Emissions from biomass burning
-1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries,Energy,Fuel Combustion Activities,Energy Industries,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
-2.A.1,Cement production,Industrial Processes and Product Use,Mineral Industry,Cement production,NA
-2.B,Chemical Industry,Industrial Processes and Product Use,Chemical Industry,NA,NA
-2.C,Metal Industry,Industrial Processes and Product Use,Metal Industry,NA,NA
-3.C.2,Liming,"Agriculture, Forestry, and Other Land Use",Aggregate sources and non-CO2 emissions sources on land,Liming,NA
-3.C.3,Urea application,"Agriculture, Forestry, and Other Land Use",Aggregate sources and non-CO2 emissions sources on land,Urea application,NA
-2.A.2,Lime production,Industrial Processes and Product Use,Mineral Industry,Lime production,NA
-1.A.3.c,Railways,Energy,Fuel Combustion Activities,Transport,Railways
-4.C,Incineration and Open Burning of Waste,Waste,Incineration and Open Burning of Waste,NA,NA
-5.B,Fossil fuel fires,Other,Other (please specify),NA,NA
+﻿IPCC,IPCC_description,Original_description,Level 1,Level 2,Level 3,Level 4
+1.A.1.a,Electricity and heat,Main Activity Electricity and Heat Production,,,,
+1.A.1.bc,Petroleum refining,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries,,,,
+1.A.2,Manufacturing & construction,Manufacturing Industries and Construction,,,,
+1.A.3.a,Civil aviation,Civil Aviation,,,,
+1.A.3.b_noRES,Road transport,Road Transportation no resuspension,,,,
+1.A.3.c,Railways,Railways,,,,
+1.A.3.d,Water-borne navigation,Water-borne Navigation,,,,
+1.A.3.e,Other transportation,Other Transportation,,,,
+1.A.4,Residential,Residential and other sectors,,,,
+1.A.5,Non-specified,Non-Specified,,,,
+1.B.1,Solid fuels,Solid Fuels,,,,
+1.B.2,Oil and natural gas,Oil and Natural Gas,,,,
+2.A.1,Cement production,Cement production,,,,
+2.A.2,Lime production,Lime production,,,,
+2.A.3,Glass Production,Glass Production,,,,
+2.A.4,Carbonate uses,Other Process Uses of Carbonates,,,,
+2.B,Chemical industry,Chemical Industry,,,,
+2.C,Metal industry,Metal Industry,,,,
+2.D,Non-energy fuel products,Non-Energy Products from Fuels and Solvent Use,,,,
+2.E,Electronics industry,Electronics Industry,,,,
+2.F,Substitutes for ODS,Product Uses as Substitutes for Ozone Depleting Substances,,,,
+2.G,Other product manufacture,Other Product Manufacture and Use,,,,
+3.A.1,Enteric fermentation,Enteric Fermentation,,,,
+3.A.2,Manure management,Manure Management,,,,
+3.C.1,Biomass burning,Emissions from biomass burning,,,,
+3.C.2,Liming,Liming,,,,
+3.C.3,Urea application,Urea application,,,,
+3.C.4,Direct N2O - managed soils,Direct N2O Emissions from managed soils,,,,
+3.C.5,Indirect N2O  - managed soils,Indirect N2O Emissions from managed soils,,,,
+3.C.6,Indirect N2O - manure,Indirect N2O Emissions from manure management,,,,
+3.C.7,Rice cultivations,Rice cultivations,,,,
+4.A,Solid waste disposal,Solid Waste Disposal,,,,
+4.B,Biological treatment - waste,Biological Treatment of Solid Waste,,,,
+4.C,Incineration of waste,Incineration and Open Burning of Waste,,,,
+4.D,Wastewater treatment,Wastewater Treatment and Discharge,,,,
+5.A,Indirect N20 - nitrogen,Indirect N2O emissions from the atmospheric deposition of nitrogen in NOx and NH3,,,,
+5.B,Fossil fuel fires,Fossil fuel fires,,,,

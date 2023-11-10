@@ -1,0 +1,25 @@
+﻿IPCC,IPCC_description,Level 1,Level 2,Level 3,Level 4
+1.A.1.a,Main Activity Electricity and Heat Production,Energy,Fuel Combustion Activities,Energy Industries,Main Activity Electricity and Heat Production
+1.A.2,Manufacturing Industries and Construction,Energy,Fuel Combustion Activities,Manufacturing Industries and Construction,NA
+1.A.4,Residential and other sectors,Energy,Fuel Combustion Activities,Other Sectors,NA
+1.A.5,Non-Specified,Energy,Fuel Combustion Activities,Non-Specified,NA
+1.B.1,Solid Fuels,Energy,Fugitive emissions from fuels,Solid Fuels,NA
+1.A.3.a,Civil Aviation,Energy,Fuel Combustion Activities,Transport,Civil Aviation
+1.A.3.b_noRES,Road Transportation no resuspension,Energy,Fuel Combustion Activities,Transport,NA
+1.A.3.d,Water-borne Navigation,Energy,Fuel Combustion Activities,Transport,Water-borne Navigation
+1.A.3.e,Other Transportation,Energy,Fuel Combustion Activities,Transport,Other Transportation
+1.B.2,Oil and Natural Gas,Energy,Fugitive emissions from fuels,Oil and Natural Gas,NA
+2.A.3,Glass Production,Industrial Processes and Product Use,Mineral Industry,Glass Production,NA
+2.A.4,Other Process Uses of Carbonates,Industrial Processes and Product Use,Mineral Industry,Other Process Uses of Carbonates,NA
+2.D,Non-Energy Products from Fuels and Solvent Use,Industrial Processes and Product Use,Non-Energy Products from Fuels and Solvent Use,NA,NA
+3.C.1,Emissions from biomass burning,"Agriculture, Forestry, and Other Land Use",Aggregate sources and non-CO2 emissions sources on land,Burning,Emissions from biomass burning
+1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries,Energy,Fuel Combustion Activities,Energy Industries,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2.A.1,Cement production,Industrial Processes and Product Use,Mineral Industry,Cement production,NA
+2.B,Chemical Industry,Industrial Processes and Product Use,Chemical Industry,NA,NA
+2.C,Metal Industry,Industrial Processes and Product Use,Metal Industry,NA,NA
+3.C.2,Liming,"Agriculture, Forestry, and Other Land Use",Aggregate sources and non-CO2 emissions sources on land,Liming,NA
+3.C.3,Urea application,"Agriculture, Forestry, and Other Land Use",Aggregate sources and non-CO2 emissions sources on land,Urea application,NA
+2.A.2,Lime production,Industrial Processes and Product Use,Mineral Industry,Lime production,NA
+1.A.3.c,Railways,Energy,Fuel Combustion Activities,Transport,Railways
+4.C,Incineration and Open Burning of Waste,Waste,Incineration and Open Burning of Waste,NA,NA
+5.B,Fossil fuel fires,Other,Other (please specify),NA,NA
