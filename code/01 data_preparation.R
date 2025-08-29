@@ -1,3 +1,5 @@
+# TALIS OLD
+
 # prep --------------------------------------------------------------------
 
 rm(list=ls())
@@ -93,7 +95,6 @@ CO2_total <- read_excel("Data/01 source/IEA_EDGAR_CO2_1970_2022.xlsx",
 
 #remove zero and negative values in emissions to avoid log(0) problem
 CO2_total[,"emissions"][CO2_total[,"emissions"] <= 0] <- 0.000001
-
 
 data <- left_join(gdp, pop, c("country", "year")) %>%
   left_join(CO2_total, c("country", "year"))
